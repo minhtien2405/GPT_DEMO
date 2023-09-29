@@ -1,0 +1,2 @@
+langchain == langchain
+git+https://github.com/SomePackage#egg=SomePackage
