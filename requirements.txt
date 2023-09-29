@@ -4,3 +4,4 @@ scikit-learn == 1.0
 langchain == 0.0.305
 streamlit == 1.27.1
 streamlit-option-menu == 0.3.2
+opemai == 0.28.1
